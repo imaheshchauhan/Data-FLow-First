@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T19:38:59.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dlzMkOexRvIXD_UIAQfY" version="18.1.2" type="github"><diagram id="jzkloGY2Zc96q1_yUcF2" name="Page-1">xVdNU9swEP01mWkPZZyYOOFIArQ5dKATmJKjsBdbgywZSU7i/vpqZfk7TGlnig9xtCvtynrvrSRP/HV6/CpJlnwXEbDJzIuOE/9qMptN54ul+UNPUXqWU+eIJY3coMaxpb/AOT3nzWkEqjNQC8E0zbrOUHAOoe74iJTi0B32LFh31ozEMHBsQ8KG3p800knp9QPPazq+AY0TN7U/rXpSUo12DpWQSBxaLv964q+lELpspcc1MESvAqaMu3mjt34zCVy/J+AYyP1t5FP64+Fhc7mLdmF8+OKy7AnL3YofFEjjuScG4Zl3y83jjpHC/K1yrQV3i9FFBZEUOY8AJ5lO/NUhoRq2GQmx92BEYXyJTpnrdtOB1HB8cx3TGh2jKxApaInzu4Clw9Mp6tyZh4aeWcVB0mKmCiNOEXGduMHMNBxsfwHhfADhACLg0SWK0VghI0rRsItKA6FnLIODLB7ROJtX5q7dd3XsWEVlHal+dBmxvWu1mxA0qojyRSEa1MAfuWihPT8BduWTwIim+276Uwy4Ge4ENRPXVJ+fd7kekKhELkNwUW3t9xLNZ91EpoC7iTSRMehBIiuIetn/rpHFCY0EzIC1UhnhHbEErznuCKtOK8b/+wRwZEqkzhLB0WAIOdZpnlUJzfuVOcug0cu1X691cbYkNA0+smCXAzI2iCBnInzBjbvooTwygP0iqLU7GoAXJwFkJOdhgge01ek2E5o+4zpS8UQZukiWjY5mfXIXvZ1hNDSrq04LzrLSLVxemED4ouzdBc/lDdcgOejmzkP3VOMCPxH1QnmMgeb3moPSFI9rc2EyjxsJlpXL7efROVgEXQ6C5egcDO9BjX57PNDnepMAc5RbiKmyiFI7E0FO4Awp2diXVXkKdiUSbHkQZE9RHqJJdRVvc7o9Z41UYzCTQKLCHqUxVYZ7w5Nxc/MMSIrc8CeVWV68d7gUjbnNQPG1n8CICsYXxEXveF6euNRNFx8qiNnJPU4TlEJZVeVpDETaTS8T0pXbgerEoqu6ChoZ46nXO4jNl8r/KztjNl825S2q+UD0r38D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-25T19:56:17.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="VcrO7ZbSp6HcY86pkRve" version="18.1.2" type="github">
+  <diagram id="jzkloGY2Zc96q1_yUcF2" name="Page-1">
+    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3800" pageHeight="3700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-1" value="User Taps On Play Button" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-7" value="&lt;span style=&quot;&quot;&gt;The smartphone lights up&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-8" value="I unlock my smartphone" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-9" value="I launch the Spotify mobile app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-10" value="The app checks for Internet connectivity (asking a question to Free SAS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-11" value="Spotify app checks if my session is still active. (I assume here that since it is my phone, I already registered and&amp;nbsp; &amp;nbsp; &amp;nbsp;signed in before)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="840" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x6rvOd3iiQUUIAYdYcgw-12" value="I tap on the search portion within spotify app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-1" value="I type in the title/name of artist of the music I want" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-2" value="The app translates this demand into an SQL pull query targeted at api.spotify.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-3" value="The app needs to resolve the public IP address of api.spotify.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-4" value="The DNS request is channeled through Free SAS, then European telcos/carriers, submarine cables, US Telcos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-5" value="The DNS request goes through internet perimeter security checks at GoDaddy Inc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-6" value="The DNS request reaches the DNS server which answers back with 35.186.224.25 (public IP address of api.spotify.com)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-7" value="&lt;div&gt;The public IP address travels back to the user&#39;s smartphone (GoDaddy Inc. &amp;gt;&amp;gt; US Telcos&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&amp;gt; Submarine cables &amp;gt;&amp;gt; European Telcos &amp;gt;&amp;gt; Free SAS)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2120" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-8" value="&lt;div&gt;The SQL queries (push and pull ones) need to be channeled all the way to api.spotify.com, whlle&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;going through Free SAS, then European telcos/carriers, submarine cables, US Telcos&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="2270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-9" value="The SQL requests go through internet perimeter security checks at Google Inc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="2440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-10" value="The SQL queries reach the back end server and database, which answers back with a variety of results answering search request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="2600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-11" value="&lt;div&gt;The result travels back to the user&#39;s smartphone (Amazon Inc. &amp;gt;&amp;gt; US Telcos &amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Submarine cables &amp;gt;&amp;gt; European Telcos &amp;gt;&amp;gt; Free SAS)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="2760" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-12" value="Spotify then displays a variety of options" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="2920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-15" value="I click on option of my choice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="3080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-16" value="repetition of 9-19. In this case, in this case the information requested is the voice of the music choosen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="3240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-17" value="spotify produces the sound." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3480" y="3400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-18" value="spotify produces the sound." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="3560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-20" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-21" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-22" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-23" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-24" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1000" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-25" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-26" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-27" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-28" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-29" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-30" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-31" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="2120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-32" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="2280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-33" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-34" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="2600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-35" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="2760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-36" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="2920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-37" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2840" y="3080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-38" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="3240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-39" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3160" y="3400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kDCje2XOfiT5rzIKhUNI-40" value="&lt;span style=&quot;&quot;&gt;abc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3320" y="3560" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
